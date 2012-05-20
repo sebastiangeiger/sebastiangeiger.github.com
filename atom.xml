@@ -4,7 +4,7 @@
   <title><![CDATA[tea parties and pony farms]]></title>
   <link href="http://sebastiangeiger.github.com/atom.xml" rel="self"/>
   <link href="http://sebastiangeiger.github.com/"/>
-  <updated>2012-05-20T14:55:04+02:00</updated>
+  <updated>2012-05-20T14:59:30+02:00</updated>
   <id>http://sebastiangeiger.github.com/</id>
   <author>
     <name><![CDATA[Sebastian Geiger]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Backbone Podcatcher: Introduction]]></title>
-    <link href="http://sebastiangeiger.github.com/blog/2012/05/20/backbone-podcatcher-introduction/"/>
-    <updated>2012-05-20T14:55:00+02:00</updated>
-    <id>http://sebastiangeiger.github.com/blog/2012/05/20/backbone-podcatcher-introduction</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
