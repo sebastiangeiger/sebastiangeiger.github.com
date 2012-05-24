@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[tea parties and pony farms]]></title>
-  <link href="http://sebastiangeiger.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: instapaper_download | tea parties and pony farms]]></title>
+  <link href="http://sebastiangeiger.github.com/blog/categories/instapaper-download/atom.xml" rel="self"/>
   <link href="http://sebastiangeiger.github.com/"/>
   <updated>2012-05-24T18:39:08+02:00</updated>
   <id>http://sebastiangeiger.github.com/</id>
@@ -20,7 +20,7 @@
     <id>http://sebastiangeiger.github.com/blog/2012/05/24/automate-instapaper-for-nook-or-any-ebook-reader</id>
     <content type="html"><![CDATA[<p>Yes, I know I know.
 <a href="http://www.instapaper.com">Instapaper</a> made reading so much more awesome, so awesome that I have premium subscription for no real reason.
-Really, being able to dowload an ebook with all your unread articles is amazing, and here&#8217;s the but:
+Really, being able to dowload an ebook with all your unread articles is amazing, and here's the but:
 But everytime I am finished with a batch of articles I need to hook up my nook to my computer, go to the instapaper website, download the epub and then drag the file on my nook.</p>
 
 <p><img src="http://i.qkme.me/3pfbna.jpg" alt="First world problems" /></p>
@@ -34,8 +34,8 @@ The former because I felt lazy, the latter because I want to streamline the proc
 Then it will download the epub file from you instapaper account and ask you where your ebook reader is mounted.
 Again, this is only the first time around, you can choose to save it in the same configuration file.</p>
 
-<p>The software is not super stable, I can say that the &#8220;happy path&#8221; works for me.
-As already mentioned, I haven&#8217;t done too much testing, but hey - shipping is a feature!
+<p>The software is not super stable, I can say that the "happy path" works for me.
+As already mentioned, I haven't done too much testing, but hey - shipping is a feature!
 If you experience any problems, <a href="https://github.com/sebastiangeiger/instapaper_download">open a new issue or send me a pull request</a>.</p>
 ]]></content>
   </entry>
