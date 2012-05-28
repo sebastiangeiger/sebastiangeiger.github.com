@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: video | tea parties and pony farms]]></title>
+  <link href="http://sebastiangeiger.github.com/blog/categories/video/atom.xml" rel="self"/>
+  <link href="http://sebastiangeiger.github.com/"/>
+  <updated>2012-05-28T13:14:55+02:00</updated>
+  <id>http://sebastiangeiger.github.com/</id>
+  <author>
+    <name><![CDATA[Sebastian Geiger]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Inventing on Principle]]></title>
+    <link href="http://sebastiangeiger.github.com/blog/2012/05/28/inventing-on-principle/"/>
+    <updated>2012-05-28T13:05:00+02:00</updated>
+    <id>http://sebastiangeiger.github.com/blog/2012/05/28/inventing-on-principle</id>
+    <content type="html"><![CDATA[<p>Even if your only midly interested in programming you have to see this talk.
+It showcases impressive technology and a probably even more impressive message.</p>
+
+<object width="400" height="225"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=36579366&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=36579366&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="225"></embed></object>
+
+
+<p><a href="http://vimeo.com/36579366">Bret Victor - Inventing on Principle</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
