@@ -24,5 +24,3 @@ Again, this is only the first time around, you can choose to save it in the same
 The software is not super stable, I can say that the "happy path" works for me.
 As already mentioned, I haven't done too much testing, but hey - shipping is a feature!
 If you experience any problems, [open a new issue or send me a pull request](https://github.com/sebastiangeiger/instapaper_download).
-
-#TODO: http://www.macresearch.org/tutorial_backups_with_launchd
