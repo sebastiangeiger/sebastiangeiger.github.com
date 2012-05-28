@@ -4,7 +4,7 @@
   <title><![CDATA[Category: instapaper_download | tea parties and pony farms]]></title>
   <link href="http://sebastiangeiger.github.com/blog/categories/instapaper-download/atom.xml" rel="self"/>
   <link href="http://sebastiangeiger.github.com/"/>
-  <updated>2012-05-28T13:14:55+02:00</updated>
+  <updated>2012-05-28T13:33:00+02:00</updated>
   <id>http://sebastiangeiger.github.com/</id>
   <author>
     <name><![CDATA[Sebastian Geiger]]></name>
@@ -37,8 +37,6 @@ Again, this is only the first time around, you can choose to save it in the same
 <p>The software is not super stable, I can say that the "happy path" works for me.
 As already mentioned, I haven't done too much testing, but hey - shipping is a feature!
 If you experience any problems, <a href="https://github.com/sebastiangeiger/instapaper_download">open a new issue or send me a pull request</a>.</p>
-
-<h1>TODO: http://www.macresearch.org/tutorial_backups_with_launchd</h1>
 ]]></content>
   </entry>
   
