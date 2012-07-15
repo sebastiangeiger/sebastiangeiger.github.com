@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rant | tea parties and pony farms]]></title>
+  <link href="http://sebastiangeiger.github.com/blog/categories/rant/atom.xml" rel="self"/>
+  <link href="http://sebastiangeiger.github.com/"/>
+  <updated>2012-07-15T22:26:42+02:00</updated>
+  <id>http://sebastiangeiger.github.com/</id>
+  <author>
+    <name><![CDATA[Sebastian Geiger]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dear Matlab]]></title>
+    <link href="http://sebastiangeiger.github.com/blog/2012/07/15/dear-matlab/"/>
+    <updated>2012-07-15T22:14:00+02:00</updated>
+    <id>http://sebastiangeiger.github.com/blog/2012/07/15/dear-matlab</id>
+    <content type="html"><![CDATA[<p>I know you are not targeted at me but please <a href="http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html">get your indexing right</a>.
+Trust me, scientists are smart people; They'll figure it out.</p>
+
+<p>xo,
+seb</p>
+]]></content>
+  </entry>
+  
+</feed>

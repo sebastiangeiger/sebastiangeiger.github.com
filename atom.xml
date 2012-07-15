@@ -4,7 +4,7 @@
   <title><![CDATA[tea parties and pony farms]]></title>
   <link href="http://sebastiangeiger.github.com/atom.xml" rel="self"/>
   <link href="http://sebastiangeiger.github.com/"/>
-  <updated>2012-06-01T08:50:32+02:00</updated>
+  <updated>2012-07-15T22:26:42+02:00</updated>
   <id>http://sebastiangeiger.github.com/</id>
   <author>
     <name><![CDATA[Sebastian Geiger]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dear Matlab]]></title>
+    <link href="http://sebastiangeiger.github.com/blog/2012/07/15/dear-matlab/"/>
+    <updated>2012-07-15T22:14:00+02:00</updated>
+    <id>http://sebastiangeiger.github.com/blog/2012/07/15/dear-matlab</id>
+    <content type="html"><![CDATA[<p>I know you are not targeted at me but please <a href="http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html">get your indexing right</a>.
+Trust me, scientists are smart people; They&#8217;ll figure it out.</p>
+
+<p>xo,
+seb</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Social media buttons are not a social media strategy]]></title>
