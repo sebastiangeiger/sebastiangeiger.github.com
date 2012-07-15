@@ -4,7 +4,7 @@
   <title><![CDATA[tea parties and pony farms]]></title>
   <link href="http://sebastiangeiger.github.com/atom.xml" rel="self"/>
   <link href="http://sebastiangeiger.github.com/"/>
-  <updated>2012-05-28T13:33:00+02:00</updated>
+  <updated>2012-06-01T08:50:32+02:00</updated>
   <id>http://sebastiangeiger.github.com/</id>
   <author>
     <name><![CDATA[Sebastian Geiger]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Social media buttons are not a social media strategy]]></title>
+    <link href="http://sebastiangeiger.github.com/blog/2012/06/01/social-media-buttons-are-not-a-social-media-strategy/"/>
+    <updated>2012-06-01T08:45:00+02:00</updated>
+    <id>http://sebastiangeiger.github.com/blog/2012/06/01/social-media-buttons-are-not-a-social-media-strategy</id>
+    <content type="html"><![CDATA[<p>Easily the best thing I have read on the topic of social media buttons and their detremental impact on user experience.
+Yes I am looking at you, everloading retweet button.</p>
+
+<blockquote><p>Social media buttons are not a social media strategy, even though they’re often sold that way. Excellent content, serious networking and constant human engagement is the way to build your profile. Adding those sleazy buttons won’t achieve anything. Social media is not easy — there is no simple trick. Usually, what most people do is not the winning strategy but the safe strategy, and safe rarely wins.</p><footer><strong>Oliver Reichenstein</strong> <cite><a href='http://informationarchitects.net/blog/sweep-the-sleaze/'>Sweep the Sleaze</a></cite></footer></blockquote>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Inventing on Principle]]></title>
